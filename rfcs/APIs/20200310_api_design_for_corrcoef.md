@@ -281,7 +281,3 @@ API设计为`corrcoef(x,rowvar=True,ddof=False,name=None)`
 # 八、影响面
 为独立新增API，对其他模块没有影响
 
-# 名词解释
-无
-# 附件及参考资料
-无
